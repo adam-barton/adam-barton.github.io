@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Adam Barton's Flatiron Blog
 header-img: img/home-bg.png
 email: adam.barton333@gmail.com
 copyright_name: adam-barton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adam Barton's Flatiron Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: abarton333
 github_username:  adam-barton
