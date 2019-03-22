@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Scope"
-date:       2019-03-22 02:14:44 +0000
+date:       2019-03-21 22:14:45 -0400
 permalink:  javascript_scope
 ---
 
@@ -16,7 +16,7 @@ Global variables declared without `const` `let` or `var`, are always in the glob
 * **Block scope** - Variables or functions declared with `const` or `let` inside a block are only available inside that block. 
 `var` does not support block scoping. 
 
-When a function is declared inside another function, the inner function has access to both function's variables and data. The outer function does not have access to the inner function's scope. In other words, scopes cascade from the inside out.
+When a function is declared inside another function, the inner function has access to both function's variables and data. The outer function does not have access to the inner function's scope. In other words, scopes cascade from the inside out, but not the outside in.
 
 
 
